@@ -5,13 +5,14 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms , Web Developement**
 
-- 👨‍💻 Portfolio Link [https://portfolio-lj45.vercel.app/](https://portfolio-lj45.vercel.app/)
-
 - 💬 Ask me about **C++, Javascript, React, Node.js, Express.js, Tailwind CSS , Backend**
 
 - 📫 How to reach me **pgarg9408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HU83IWEjZk0TheLz-bR_c6pKetxh2uWw/view?usp=drive_link](https://drive.google.com/file/d/1HU83IWEjZk0TheLz-bR_c6pKetxh2uWw/view?usp=drive_link)
+-  👨‍💻 Portfolio Link [https://portfolio-lj45.vercel.app/](https://portfolio-lj45.vercel.app/)
+
+
+- 📄 Resume [https://drive.google.com/file/d/1HU83IWEjZk0TheLz-bR_c6pKetxh2uWw/view?usp=drive_link](https://drive.google.com/file/d/1HU83IWEjZk0TheLz-bR_c6pKetxh2uWw/view?usp=drive_link)
 
 - ⚡ What I Like **Solving mind games like Sudoku**
 
